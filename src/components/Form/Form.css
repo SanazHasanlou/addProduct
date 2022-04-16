@@ -1,0 +1,25 @@
+.add-product-form {
+display: flex;
+justify-content: center;
+padding: 2rem 0;
+}
+
+.form-input input {
+    background: transparent;
+    border: none;
+    padding: 0.3rem;
+    color: #e0e0e0;
+    border-bottom: 2px solid #e0e0e0;
+    font: inherit;
+    outline: none;
+
+}
+
+.btn-add {
+    border: none;
+    margin: 1rem;
+    background: transparent;
+    border: none;
+    font: inherit;
+    color: #e0e0e0;
+}
